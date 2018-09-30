@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  color: #555;
+  font-size: 14px;
+  font-family: Verdana, Verdana, Arial, Helvetica, sans-serif;
+}
+ul, ol, li {
+  list-style: none;
+}
+._clearfix_74aq8_25:before {
+  content: " ";
+  display: table;
+}
+._clearfix_74aq8_25:after {
+  content: " ";
+  display: table;
+  clear: both;
+}
+header {
+  width: 100%;
+  height: 50px;
+}
+header ._brand_74aq8_51 {
+  float: left;
+  height: 100%;
+}
